@@ -1,6 +1,6 @@
 # Wayfinder - Map Search Ranking with Learning to Rank (real data, live search)
 
-A small end-to-end project: train a **LambdaMART** learning-to-rank model over
+A small end-to-end project: trained a **LambdaMART** learning-to-rank model over
 a **real restaurant dataset**, then let people type **real search queries**
 into a live, animated browser UI that runs the actual trained model
 client-side.
