@@ -6,7 +6,7 @@ into a live, animated browser UI that runs the actual trained model
 client-side.
 
 ```
-map_search_ltr/
+MAP-SEARch-A-Map-Search-Ranking-System/
 ├── data/
 │   ├── real_geoplaces2.csv        raw UCI dataset (places, real GPS coords)
 │   ├── real_chefmozcuisine.csv    raw UCI dataset (real cuisine tags)
